@@ -1,6 +1,7 @@
 # HtmlToMD
 
 Quick project in order to learn Scala. 
+Converts html to md. 
 
 # Background / Inspiration 
 
