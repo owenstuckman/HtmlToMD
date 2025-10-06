@@ -5,7 +5,7 @@ import org.jsoup._
 import org.jsoup.nodes._
 import scala.jdk.CollectionConverters._
 
-object HtmlToMd:
+object HtmlToMd:	
   def main(args: Array[String]): Unit =
     if args.length != 1 then
       Console.err.println("Usage: HtmlToMd <input.html>")
